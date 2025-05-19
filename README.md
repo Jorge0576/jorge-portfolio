@@ -1,4 +1,4 @@
-# Jorge Jimenez‑Mejia’s Signature Work Portfolio
+# Jorge Jimenez‑Mejia’s Portfolio
 
 ## Introduction & Problem of Interest
 
