@@ -27,8 +27,8 @@ Inspired by the Catholic intellectual tradition, I aim to “think critically, a
 
 ### Creative Coding Practices  
 - **Link:** https://github.com/Jorge0576/creative-coding-project  
-- **Description:** An interactive p5.js sketch that invites participants to co‑create audiovisual stories, fostering a caring, collaborative experience that supports each person’s well‑being through collaborative, hands‑on design.  
-- **St. Thomas Convictions:** Personal Attention; Diversity
+- **Description:** The core `sketch.js` implements a real‑time weather‑driven particle system in p5.js. On launch, it prompts for a latitude/longitude, then initializes 3,000 particles whose hue, transparency, stroke weight, speed, and direction all map dynamically to live Weatherstack API data (temperature, cloud cover, UV index, wind speed, and wind direction), with organic flow generated via Perlin noise.  
+- **St. Thomas Convictions:** Personal Attention; Diversity  
 
 ---
 
@@ -38,6 +38,6 @@ Through these three projects—Prophetic Ethics in Practice, Advanced Business I
 
 - In the **theology paper**, I engaged Faith and Reason and the Pursuit of Truth to reinterpret ancient calls for justice in a modern setting.  
 - In the **BI capstone**, I applied Academic Excellence and the Pursuit of Truth to uncover data‑driven insights for more equitable urban policy.  
-- In the **creative coding sketch**, I embodied Personal Attention and Diversity, crafting an interactive experience that centers each participant’s well‑being.
+- In the **creative coding sketch**, I embodied Personal Attention and Diversity, crafting an interactive experience that centers each participant’s personal curiosity.
 
 Together, these works demonstrate my commitment to St. Thomas’s mission—thinking critically, acting wisely, and working skillfully for the common good—and showcase the interdisciplinary skills I will carry forward in service of a more just and humane world.
