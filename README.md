@@ -1,4 +1,4 @@
-# Jorge Jimenez‑Mejia’s Portfolio
+# Jorge Jimenez‑Mejia’s Signiture Work Portfolio
 
 **Problem of Interest:**  
 How can the intersection of technology, creative expression, and ethical reflection advance social justice and human dignity in our communities?
@@ -13,8 +13,22 @@ Inspired by the Catholic intellectual tradition, I aim to “think critically, a
 
 This portfolio brings together:
 
-1. **Prophetic Ethics in Practice** (Theology & Social Ethics)  
-2. **Advanced Business Intelligence Development** (Data Analytics & AI)  
-3. **Creative Coding Practices** (Interactive Media & Personal Creativity)  
+1. **Prophetic Ethics in Practice** (Theology & Social Ethics)
+  - Project 1: Prophetic Ethics in Practice
+    Link: https://github.com/Jorge0576/prophetic-ethics
+    Description: A 12‑page paper analyzing Amos’s call for justice—tracing its ancient context and applying theological and ethical frameworks to contemporary social‑justice challenges.
+    St. Thomas Convictions: Faith and Reason; Pursuit of Truth
+
+2. **Advanced Business Intelligence Development** (Data Analytics & AI)
+   - Project 2: Advanced Business Intelligence Development
+     Link: https://github.com/Jorge0576/power-bi-project
+     Description: I built interactive Power BI dashboards driven by Python data‑prep scripts and light machine‑learning models to surface insights on traffic volume, weather, and urban policy.
+     St. Thomas Convictions: Academic Excellence; Pursuit of Truth
+     
+3. **Creative Coding Practices** (Interactive Media & Personal Creativity)
+   - Project 3: Creative Coding Practices
+     Link: https://github.com/Jorge0576/creative-coding-project
+     Description: An interactive p5.js sketch that invites participants to co‑create audiovisual stories, fostering a caring, collaborative experience that supports
 
 By showcasing these projects I demonstrate how my work, rooted in St. Thomas’s convictions, drives positive change.
+
